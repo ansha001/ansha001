@@ -1,5 +1,6 @@
 
-# Ansha Prashanth&nbsp; <img src="https://github.com/ansha001/ansha001/blob/main/assets/Mario_Hello_Big.gif" width="30px">
+# Ansha Prashanth&nbsp;
+<img src="https://github.com/ansha001/ansha001/blob/main/assets/Mario_Hello_Big.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-ansha-prashanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansha-prashanth/)](https://www.linkedin.com/in/ansha-prashanth/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshaprashanth001@gmail.com)](mailto:anshaprashanth001@gmail.com)
