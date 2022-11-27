@@ -1,10 +1,10 @@
 
-# Ansha Prashanth&nbsp;<img src="https://github.com/ansha001/ansha001/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Ansha Prashanth&nbsp;<img src="https://github.com/ansha001/ansha001/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-ansha001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansha-prashanth/)](https://www.linkedin.com/in/ansha-prashanth/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshaprashanth001@gmail.com)](mailto:anshaprashanth001@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ansha Prashanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansha-prashanth/)](https://www.linkedin.com/in/ansha-prashanth/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshaprashanth001@gmail.com)](mailto:anshaprashanth001@gmail.com)
 
-### Hello!<img src="https://github.com/TheDudeThatCode/ansha001/blob/master/Assets/Hi.gif" width="29px">
+### Hello!<img src="https://github.com/TheDudeThatCode/ansha001/blob/main/Assets/Hi.gif" width="29px">
 I'm Ansha Prashanth, student at BMS College of Engineering. A budding software engineer, building, breaking, exploring around tech.
 
 <div align="center">
