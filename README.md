@@ -1,5 +1,5 @@
 # Hello! 👋 <img src="https://github.com/ansha001/ansha001/blob/main/assets/Hi.gif" width="29px">
-I'm Ansha Prashanth, student at BMS College of Engineering. A budding software engineer, building, breaking, exploring around tech.
+I'm Ansha Prashanth, a computer science student from India. I enjoy tinkering with tech and making a positive impact.  
 <!-- 
 <div align="center">
 <a href="https://www.buymeacoffee.com/anshaprashanth" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
